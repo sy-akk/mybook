@@ -37,6 +37,9 @@ https://[你的GitHub用户名].github.io/mybook
    - 在 "Source" 部分选择 "Deploy from a branch"
    - 在 "Branch" 下拉菜单中选择 "main" 分支，点击 "Save"
 
-完成这些步骤后，GitHub Pages 会自动构建并发布你的网站。
+完成这些步骤后，GitHub Pages 会自动构建并发布你的网站。通常需要等待几分钟才能生效。
+你可以通过 https://[你的GitHub用户名].github.io/[仓库名称] 访问你的网站。
 
-## 测试
+## 访问地址
+
+你可以通过该地址访问该项目：https://sy-akk.github.io/mybook
